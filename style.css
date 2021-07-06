@@ -4,10 +4,11 @@ body{
 h1{
   font-size: 50px;
 }
+
 .orange-color{
   color: orange;
 }
-section{
+ section{
   display: flex;
   margin-bottom: 100px;
 }
@@ -29,4 +30,8 @@ section{
 }
 .Importance_of_food{
   background-image: url(shapes/7.png);
+  background-repeat: no-repeat;
+}
+.a{
+  text-align: center;
 }
