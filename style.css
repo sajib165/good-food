@@ -35,3 +35,15 @@ h1{
 .a{
   text-align: center;
 }
+.recipie-item{
+  width: 335px;
+  margin: auto;
+  padding: 16px;
+  border-radius: 20px;
+  box-shadow: 10px 10px 30px white;
+}
+.recipie-item img {
+  width: 336px;
+  height: 252px;
+  border-radius: 14px;
+}
