@@ -47,3 +47,26 @@ h1{
   height: 252px;
   border-radius: 14px;
 }
+.d{
+  display: flex;
+  margin-bottom: 200px;
+  text-align: center;
+  margin-left: 300px;
+  box-shadow: 2px 2px 2px 2px gray;
+  width: 650px;
+}
+.g{
+  margin-left: 100px;
+}
+footer{
+  background-color: black;
+  height: 400px;
+  width: 1400px;
+  margin-left: -8px;
+}
+.sajib{
+  text-align: center;
+  color: gray;
+  position: absolute;
+left: 100px; 150px ;
+}
